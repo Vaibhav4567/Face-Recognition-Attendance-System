@@ -45,8 +45,3 @@ Jane_Smith,12:05:00
 
 ## ❌ Exit the Program
 - You can manually quit the program at any time by pressing the `q` key.
-
-## 📜 License
-This project is licensed under the MIT License.
-
-Feel free to adjust any emojis or icons to better fit your style!
